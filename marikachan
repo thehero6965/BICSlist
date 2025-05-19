@@ -20,6 +20,78 @@
         "BICS": "/proxy/api/imgur/chapter/umn1Xx6"
       },
       "last_updated": "1735714800"
+    },
+    "3": {
+      "title": "None",
+      "volume": "None",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/NfhhrQb"
+      },
+      "last_updated": "1735714800"
+    },
+    "4": {
+      "title": "None",
+      "volume": "None",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/jS3PZAl"
+      },
+      "last_updated": "1735714800"
+    },
+    "5": {
+      "title": "None",
+      "volume": "None",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/mqMJPCN"
+      },
+      "last_updated": "1735714800"
+    },
+    "6": {
+      "title": "None",
+      "volume": "None",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/rwodkxT"
+      },
+      "last_updated": "1735714800"
+    },
+    "7": {
+      "title": "None",
+      "volume": "None",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/ZIcaTrk"
+      },
+      "last_updated": "1735714800"
+    },
+    "8": {
+      "title": "None",
+      "volume": "None",
+      "groups": {
+        "marikachanstan": "/proxy/api/imgur/chapter/2kkLbaK"
+      },
+      "last_updated": "1735714800"
+    },
+    "9": {
+      "title": "None",
+      "volume": "None",
+      "groups": {
+        "marikachanstan": "/proxy/api/imgur/chapter/yVfVKTA"
+      },
+      "last_updated": "1735714800"
+    },
+    "10": {
+      "title": "None",
+      "volume": "None",
+      "groups": {
+        "marikachanstan": "/proxy/api/imgur/chapter/yivWdOe"
+      },
+      "last_updated": "1735714800"
+    },
+    "11": {
+      "title": "None",
+      "volume": "None",
+      "groups": {
+        "marikachanstan": "/proxy/api/imgur/chapter/iwWBBuB"
+      },
+      "last_updated": "1735714800"
     }
   }
 }
