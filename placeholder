@@ -1,0 +1,17 @@
+{
+  "title": "title",
+  "description": "placeholder",
+  "artist": "auth",
+  "author": "auth",
+  "cover": "https://mangadex.org/",
+  "chapters": {
+    "17": {
+      "title": "title",
+      "volume": "None",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/---/"
+      },
+      "last_updated": "unixtimestamp"
+    }
+  }
+}
