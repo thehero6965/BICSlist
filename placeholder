@@ -5,7 +5,17 @@
   "author": "auth",
   "cover": "https://mangadex.org/",
   "chapters": {
-    "17": {
+    "000000": {
+      "title": "title",
+      "volume": "None",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/---/"
+      },
+      "last_updated": "unixtimestamp"
+    }
+  },
+  "chapters1": {
+    "000000": {
       "title": "title",
       "volume": "None",
       "groups": {
