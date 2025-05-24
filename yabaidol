@@ -5,9 +5,17 @@
   "author": "Kai Bashira",
   "cover": "https://mangadex.org/covers/2f0af125-71c3-462f-b518-bf431f52a51e/494f8898-9250-43b7-bf83-2aec67f1cd3a.jpg.512.jpg",
   "chapters": {
+    "14.5": {
+      "title":"Omake",
+      "volume":"1",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/Isg35sW"
+      },
+      "last_updated": "1742400061"
+    },
     "15": {
       "title": "none",
-      "volume": "None",
+      "volume": "2",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/rapbTlP/"
       },
@@ -15,7 +23,7 @@
     },
     "16": {
       "title": "none",
-      "volume": "None",
+      "volume": "2",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/57XffrP/"
       },
@@ -23,7 +31,7 @@
   },
     "17": {
       "title": "none",
-      "volume": "None",
+      "volume": "2",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/Fx295qm/"
       },
@@ -31,7 +39,7 @@
   },
     "18": {
       "title": "none",
-      "volume": "None",
+      "volume": "2",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/Nfmzqjg/"
       },
@@ -39,7 +47,7 @@
   },
     "19": {
       "title": "none",
-      "volume": "None",
+      "volume": "2",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/1NkVUss/"
       },
@@ -47,7 +55,7 @@
   },
     "20": {
       "title": "none",
-      "volume": "None",
+      "volume": "2",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/leUXnjZ/"
       },
@@ -55,7 +63,7 @@
   },
     "21": {
       "title": "none",
-      "volume": "None",
+      "volume": "2",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/P4Kfhlq/"
       },
@@ -63,7 +71,7 @@
   },
     "22": {
       "title": "none",
-      "volume": "None",
+      "volume": "2",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/tuYmAun/"
       },
@@ -71,7 +79,7 @@
   },
     "23": {
       "title": "none",
-      "volume": "None",
+      "volume": "2",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/1IkaRjZ/"
       },
@@ -79,7 +87,7 @@
   },
     "24": {
       "title": "none",
-      "volume": "None",
+      "volume": "2",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/OGs4cbK/"
       },
@@ -87,7 +95,7 @@
   },
     "25": {
       "title": "none",
-      "volume": "None",
+      "volume": "2",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/MemYTNd/"
       },
@@ -95,7 +103,7 @@
   },
     "26": {
       "title": "none",
-      "volume": "None",
+      "volume": "3",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/ASHcyPm/"
       },
@@ -103,7 +111,7 @@
   },
     "27": {
       "title": "none",
-      "volume": "None",
+      "volume": "3",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/N6mfPg4/"
       },
@@ -111,7 +119,7 @@
   },
     "28": {
       "title": "none",
-      "volume": "None",
+      "volume": "3",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/XXnVfEK/"
       },
