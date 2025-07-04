@@ -1,9 +1,17 @@
 {
   "title": "Sono Uruwashiki Hito wa",
-  "description": "Mystery in a prestigous girls' school, a girl who belongs to the common people is best friends with the most popular and admired girl, when suddenly she disappears without leaving behind a single word.",
+  "description": "Mystery in a prestigous girls' school, a girl who belongs to the common people is best friends with the most popular and admired girl, when suddenly she disappears without leaving behind a single word. \n Uploaded by BICS",
   "artist": "Mame Zakana",
   "author": "Mame Zakana",
   "cover": "https://mangadex.org/covers/bc9c6862-2f58-4061-9815-7fc9faf988dc/a78df88b-81e8-46f8-936c-88f51de2c2a1.jpg.512.jpg",
   "chapters": {
+    "1": {
+      "title": "title",
+      "volume": "None",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/KUhS5rh/"
+      },
+      "last_updated": "1751588333"
+    }
   }
 }
