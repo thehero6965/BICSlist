@@ -5,21 +5,37 @@
   "author": "Tantan, Wanda Kuro",
   "cover": "https://mangadex.org/covers/06f6356a-4511-4bbd-a97b-4c609b9f7959/8e9b8b9d-5095-4a1e-a2a1-07ba0414beeb.jpg.512.jpg",
   "chapters": {
-    "1": {
+    "13": {
       "title": "None",
       "volume": "None",
       "groups": {
-        "BICS": "/proxy/api/imgur/chapter/---/"
+        "BICS": "/proxy/api/imgur/chapter/M89JCqP/"
       },
-      "last_updated": "unixtimestamp"
+      "last_updated": "1753919789"
     },
-    "2": {
+    "14": {
       "title": "None",
       "volume": "None",
       "groups": {
-        "BICS": "/proxy/api/imgur/chapter/---/"
+        "BICS": "/proxy/api/imgur/chapter/P5QPZy5/"
       },
-      "last_updated": "unixtimestamp"
+      "last_updated": "1753919789"
+    },
+    "15": {
+      "title": "None",
+      "volume": "None",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/usWmFGQ/"
+      },
+      "last_updated": "1753919789"
+    },
+    "16": {
+      "title": "None",
+      "volume": "None",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/R0xqO7y/"
+      },
+      "last_updated": "1753919789"
     }
   }
 }
