@@ -7,7 +7,7 @@
   "chapters": {
     "13": {
       "title": "None",
-      "volume": "None",
+      "volume": "3",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/M89JCqP/"
       },
@@ -15,7 +15,7 @@
     },
     "14": {
       "title": "None",
-      "volume": "None",
+      "volume": "3",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/P5QPZy5/"
       },
@@ -23,7 +23,7 @@
     },
     "15": {
       "title": "None",
-      "volume": "None",
+      "volume": "3",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/usWmFGQ/"
       },
@@ -31,11 +31,35 @@
     },
     "16": {
       "title": "None",
-      "volume": "None",
+      "volume": "3",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/R0xqO7y/"
       },
       "last_updated": "1753919789"
+    },
+    "17": {
+      "title": "None",
+      "volume": "4",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/2Fmp3wF/"
+      },
+      "last_updated": "1753989332"
+    },
+    "18": {
+      "title": "None",
+      "volume": "4",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/fxsYZB1/"
+      },
+      "last_updated": "1753989332"
+    },
+    "19": {
+      "title": "None",
+      "volume": "4",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/75eSQJq/"
+      },
+      "last_updated": "1753989332"
     }
   }
 }
