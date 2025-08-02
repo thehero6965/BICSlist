@@ -5,23 +5,21 @@
   "author": "auth",
   "cover": "https://mangadex.org/",
   "chapters": {
-    "000000": {
-      "title": "title",
+    "1": {
+      "title": "None",
       "volume": "None",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/---/"
       },
-      "last_updated": "unixtimestamp"
-    }
-  },
-  "chapters1": {
-    "000000": {
-      "title": "title",
+      "last_updated": "unix"
+    },
+    "2": {
+      "title": "None",
       "volume": "None",
       "groups": {
         "BICS": "/proxy/api/imgur/chapter/---/"
       },
-      "last_updated": "unixtimestamp"
+      "last_updated": "unix"
     }
   }
 }
