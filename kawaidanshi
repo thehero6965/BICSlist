@@ -20,6 +20,14 @@
         "BICS": "/proxy/api/imgur/chapter/Ci6rU0u/"
       },
       "last_updated": "1751175619"
+    },
+    "16": {
+      "title": "What's going on?",
+      "volume": "3",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/wlu3tkG/"
+      },
+      "last_updated": "1754631750"
     }
   }
 }
