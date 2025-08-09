@@ -5,7 +5,15 @@
   "author": "Gyuunyuu Mugigohan",
   "cover": "https://uploads.mangadex.org/covers/4028472c-5ee4-4e5a-9d61-6aea6449edd9/a68e2123-3d49-4722-ba3f-35b7cf178232.jpg",
   "chapters": {
-    "17": {
+    "1": {
+      "title": "My boyish girlfriend from another school is too damn cute",
+      "volume": "None",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/sCL1MrT/"
+      },
+      "last_updated": "1754732139"
+    },
+      "17": {
       "title": "The girl targeting my boyish girlfriend is pretty damn scary",
       "volume": "None",
       "groups": {
@@ -100,14 +108,6 @@
         "BICS": "/proxy/api/imgur/chapter/Jcea5lW/"
       },
       "last_updated": "1752555069"
-    },
-    "28": {
-      "title": "My boyish girlfriend from another school is too damn cute",
-      "volume": "None",
-      "groups": {
-        "BICS": "/proxy/api/imgur/chapter/3CvMmqR/"
-      },
-      "last_updated": "1754732139"
     }
   }
 }
