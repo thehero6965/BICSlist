@@ -108,6 +108,14 @@
         "BICS": "/proxy/api/imgur/chapter/xBFcQEZ/"
       },
       "last_updated": "1754631750"
+    },
+      "13": {
+      "title": "None",
+      "volume": "2",
+      "groups": {
+        "BICS": "/proxy/api/imgur/chapter/9mex0FH/"
+      },
+      "last_updated": "1755207124"
     }
   }
 }
